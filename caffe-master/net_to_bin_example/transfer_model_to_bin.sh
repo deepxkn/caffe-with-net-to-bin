@@ -1,0 +1,1 @@
+../build/tools/net_to_bin.bin casia_deploy.prototxt casia_144_ve_id_model_iter_1210000.caffemodel casia_144_ve_id_model_iter.bin
